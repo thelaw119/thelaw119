@@ -1,6 +1,6 @@
 # 👋 Hola, soy Pedro 
 
-## Ingeniero En Informático | Desarrollo de Software | Docencia TI | MBA
+## Ingeniero en Informático | Desarrollo de Software
 
 Soy profesional del área informática, con experiencia en desarrollo de software, gestión de proyectos tecnológicos, bases de datos, sistemas web y formación de estudiantes en educación superior.
 
